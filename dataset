@@ -1,0 +1,15 @@
+## Dataset
+
+O conjunto de dados utilizado neste projeto é composto por seis tabelas relacionais:
+
+- **orders** — informações dos pedidos  
+- **deliveries** — dados das entregas realizadas  
+- **drivers** — informações dos entregadores  
+- **stores** — restaurantes ou lojas parceiras  
+- **channels** — canais de venda  
+- **hubs** — centros logísticos  
+
+Devido ao limite de tamanho de arquivos do GitHub, o dataset completo está disponível no link abaixo.
+
+📥 **Download do dataset:**  
+https://docs.google.com/spreadsheets/d/1mHjrwQP4Fk7_geJyyqNP06Qs0iQUqV1hgVn9S10Xi5g/edit?usp=drive_link
