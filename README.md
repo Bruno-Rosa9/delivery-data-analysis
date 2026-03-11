@@ -18,5 +18,5 @@ Desenvolvi um dashboard analítico simulando um cenário real do setor de delive
 
 O projeto demonstra como dados podem ser transformados em direcionamento estratégico para tomada de decisão.
 
+<img width="908" height="462" alt="image" src="https://github.com/user-attachments/assets/264f1032-e008-4914-bed7-f567435f1af4" />
 
-<img width="882" height="463" alt="image" src="https://github.com/user-attachments/assets/f622292d-2fa9-4f54-8f9c-6749a3129d6f" />
