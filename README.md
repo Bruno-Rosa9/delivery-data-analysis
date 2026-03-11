@@ -1,4 +1,4 @@
-##Análise de Performance de Receita – Delivery
+# Análise de Performance de Receita – Delivery
 
 Desenvolvi um dashboard analítico simulando um cenário real do setor de delivery, com foco em performance comercial e análise de canais de venda. 
 
